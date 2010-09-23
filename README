@@ -1,5 +1,11 @@
 under unbuntu 
-assume you install nodejs 
-npm with nodejitsu article jquery + jdom
+assume you 
+install nodejs 
+install npm 
+run "npm install request http-agent htmlparser jsdom" with ok
+understand  nodejitsu article jquery + jsdom 
+http://blog.nodejitsu.com/jsdom-jquery-in-5-lines-on-nodejs
+and get sizzle.js from jsdom example
+
 
 
